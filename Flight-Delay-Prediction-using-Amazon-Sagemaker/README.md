@@ -49,6 +49,3 @@ Model Evaluation: The trained model is evaluated on a test dataset, and various 
 
 # Results
 The trained XGBoost model shows promising results in predicting flight delays due to weather. The model's performance is evaluated using various metrics, demonstrating its ability to identify weather-related delays accurately.
-
-# Contributing
-We welcome contributions to this project! If you find any issues or have ideas for improvement, please feel free to open an issue or submit a pull request.
